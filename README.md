@@ -1,8 +1,8 @@
-# saving365 Support / 用户支持
+# 存钱拼图 Support / 用户支持
 
-Welcome to the official support page for **saving365** — a 365-day saving plan app with puzzle rewards, friends, Apple Watch & Home Screen widgets.
+Welcome to the official support page for **存钱拼图** — a 365-day saving plan app with puzzle rewards, friends, Apple Watch & Home Screen widgets.
 
-欢迎来到 **saving365** 官方支持页面。saving365 是一款帮你完成 365 天存钱计划的 App，支持拼图奖励、好友互相激励、Apple Watch 与桌面小组件。
+欢迎来到 **存钱拼图** 官方支持页面。存钱拼图 是一款帮你完成 365 天存钱计划的 App，支持拼图奖励、好友互相激励、Apple Watch 与桌面小组件。
 
 ---
 
@@ -48,21 +48,21 @@ Friends are linked through a 6-character invite code. Only your nickname, avatar
 请确认：主 App 与小组件 / Watch App 使用**同一个 Apple ID**；两端都已开启 iCloud；安装后至少启动过一次主 App。
 
 ### 5. How do I delete my data? / 如何删除我的数据？
-Go to **Settings → Reset** inside the app to clear all local data. To remove iCloud data, sign into iCloud.com → Settings → Manage → saving365 → Delete Data.
-在 App 内进入「设置 → 重置」即可清除所有本地数据。如需删除 iCloud 数据，请登录 iCloud.com → 设置 → 管理 → saving365 → 删除数据。
+Go to **Settings → Reset** inside the app to clear all local data. To remove iCloud data, sign into iCloud.com → Settings → Manage → 存钱拼图 → Delete Data.
+在 App 内进入「设置 → 重置」即可清除所有本地数据。如需删除 iCloud 数据，请登录 iCloud.com → 设置 → 管理 → 存钱拼图 → 删除数据。
 
-### 6. Is saving365 free? / 这款 App 免费吗？
-Yes, saving365 is completely free with no ads and no in-app purchases.
-是的，saving365 完全免费，无广告、无内购。
+### 6. Is 存钱拼图 free? / 这款 App 免费吗？
+Yes, 存钱拼图 is completely free with no ads and no in-app purchases.
+是的，存钱拼图 完全免费，无广告、无内购。
 
 ---
 
 ## 🔒 Privacy / 隐私
 
-saving365 does not collect any personally identifiable information. All data stays on your device or in your personal iCloud. For details, please see our [Privacy Policy](./privacy.md).
+存钱拼图 does not collect any personally identifiable information. All data stays on your device or in your personal iCloud. For details, please see our [Privacy Policy](./privacy.md).
 
-saving365 不收集任何可识别用户身份的个人信息。所有数据仅保存在你的设备或你个人的 iCloud 中。详情请见[隐私政策](./privacy.md)。
+存钱拼图 不收集任何可识别用户身份的个人信息。所有数据仅保存在你的设备或你个人的 iCloud 中。详情请见[隐私政策](./privacy.md)。
 
 ---
 
-© 2026 saving365. All rights reserved.
+© 2026 存钱拼图. All rights reserved.
